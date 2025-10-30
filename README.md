@@ -57,3 +57,9 @@ It helps logistics and supply-chain teams improve efficiency, reduce travel time
 - Stuti Rao
 - stutirao24@gmail.com
 - 🔗https://www.linkedin.com/in/stuti-rao06/
+
+###  Output Screenshot
+- [https://github.com/Stutirao24/Predictive-Delivery-Optimizer/blob/main/model_performance.png]
+- [https://github.com/Stutirao24/Predictive-Delivery-Optimizer/blob/main/model_performance2.png ]
+- [https://github.com/Stutirao24/Predictive-Delivery-Optimizer/blob/main/Dashboard.png ]
+- [https://github.com/Stutirao24/Predictive-Delivery-Optimizer/blob/main/Dashboard2.png ]
