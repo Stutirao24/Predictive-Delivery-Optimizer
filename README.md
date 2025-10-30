@@ -18,7 +18,7 @@ It helps logistics and supply-chain teams improve efficiency, reduce travel time
 ###  Tools & Technologies
 - **Languages:** Python  
 - **Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **Visualization:** Power BI (optional for dashboards)  
+- **Visualization:** Streamlit, matplotlib / plotly  
 - **Environment:** Jupyter Notebook, VS Code  
 
 ---
