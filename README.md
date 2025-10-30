@@ -24,36 +24,36 @@ It helps logistics and supply-chain teams improve efficiency, reduce travel time
 ---
 
 ###  Project Structure
- Predictive_Delivery_Optimizer
-┣ 📄 app.py
-┣ 📄 data_exploration.ipynb
-┣ 📄 cleaned_master_dataset.csv
-┣ 📄 rf_model.joblib
-┣ 📄 routes_distance.csv
-┣ 📄 vehicle_fleet.csv
-┗ 📄 Delivery_Report.pdf
+-  Predictive_Delivery_Optimizer
+- ┣ 📄 app.py
+- ┣ 📄 data_exploration.ipynb
+- ┣ 📄 cleaned_master_dataset.csv
+- ┣ 📄 rf_model.joblib
+- ┣ 📄 routes_distance.csv
+- ┣ 📄 vehicle_fleet.csv
+- ┗ 📄 Delivery_Report.pdf
 
 
 ---
 
 ###  How to Run
-1. Clone this repository  
+- 1. Clone this repository  
    ```bash
    git clone https://github.com/Stutirao24/Predictive-Delivery-Optimizer.git
    cd Predictive-Delivery-Optimizer
 
-**Install dependencies**
+###  Install dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **Run the app or notebook for analysis.**
 
- Results
--Predicted delivery performance metrics
--Visualized logistics efficiency
--Optimized route insights for faster delivery
+ ### Results
+- Predicted delivery performance metrics
+- Visualized logistics efficiency
+- Optimized route insights for faster delivery
 
- Author
-Stuti Rao
-stutirao24@gmail.com
-🔗https://www.linkedin.com/in/stuti-rao06/
+ ### Author
+- Stuti Rao
+- stutirao24@gmail.com
+- 🔗https://www.linkedin.com/in/stuti-rao06/
